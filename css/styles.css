@@ -4,16 +4,19 @@ body {
 }
 
 #header img {
-  max-width:55%;
+  max-width:75%;
   height:auto;
-  border-radius: 80%;
+  border-radius: 100%;
   border: 2px solid #fefefe;
+  
 }
 
 
+.container {
 
-
-
-* {
-  border: 1px solid black;
 }
+
+
+/* * {
+  border: 1px solid white;
+} */
