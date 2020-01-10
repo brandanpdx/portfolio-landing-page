@@ -1,0 +1,19 @@
+body {
+  background: black;
+  color: #fefefe;
+}
+
+#header img {
+  max-width:55%;
+  height:auto;
+  border-radius: 80%;
+  border: 2px solid #fefefe;
+}
+
+
+
+
+
+* {
+  border: 1px solid black;
+}
