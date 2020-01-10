@@ -1,13 +1,17 @@
 body {
-  background: black;
+  background: #1d2731;
   color: #fefefe;
+}
+
+h1 {
+  color: #ff625f;
 }
 
 #header img {
   max-width:75%;
   height:auto;
   border-radius: 100%;
-  border: 2px solid #fefefe;
+  border: 1px solid #fefefe;
 }
 
 a {
@@ -18,6 +22,12 @@ a {
   max-width: 100%;
   height: auto;
   border: 1px solid white;
+}
+
+.first-half {
+  background: #1d2731;
+  margin-top: 15px;
+  padding: 5px;
 }
 
 
