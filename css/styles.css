@@ -10,6 +10,10 @@ body {
   border: 2px solid #fefefe;
 }
 
+a {
+  color: white;
+}
+
 
 /* * {
   border: 1px solid white;
