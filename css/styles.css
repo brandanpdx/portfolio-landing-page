@@ -16,7 +16,6 @@ h1 {
 
 a {
   color: white;
-  text-decoration: underline;
 }
 
 .photography-row-1 img {
@@ -31,6 +30,29 @@ a {
   padding: 5px;
 }
 
+.github1 img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+
+.github2 img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+
+.github3 img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
+
+.github4 img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid white;
+}
 
 /* * {
   border: 1px solid white;
