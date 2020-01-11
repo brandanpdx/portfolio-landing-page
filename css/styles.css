@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  color: #86c232;
+  color: #FF8E69;
 }
 
 #header {
@@ -16,6 +16,7 @@ h1 {
   height:auto;
   border-radius: 100%;
   border: 1px solid #fefefe;
+  float: center;
 }
 
 a {
