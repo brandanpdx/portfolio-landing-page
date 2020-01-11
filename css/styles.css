@@ -7,6 +7,10 @@ h1 {
   color: #ff625f;
 }
 
+#header {
+  margin-top: 5px;
+}
+
 #header img {
   max-width:75%;
   height:auto;
@@ -24,36 +28,8 @@ a {
   border: 1px solid white;
 }
 
-.first-half {
-  background: #1d2731;
-  margin-top: 15px;
-  padding: 5px;
-}
-
-.github1 img {
+.github1 img, .github2 img, .github3 img, .github4 img {
   max-width: 100%;
   height: auto;
   border: 1px solid white;
 }
-
-.github2 img {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid white;
-}
-
-.github3 img {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid white;
-}
-
-.github4 img {
-  max-width: 100%;
-  height: auto;
-  border: 1px solid white;
-}
-
-/* * {
-  border: 1px solid white;
-} */
